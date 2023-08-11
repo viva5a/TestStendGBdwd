@@ -1,0 +1,28 @@
+/*
+package teststend.gb;
+
+import autopage.HomePage;
+import org.junit.jupiter.api.Test;
+
+
+public class MyPost extends AbstractTest {
+
+   @Test
+   void test() throws InterruptedException {
+
+       getDriver().get("https://test-stand.gb.ru/");
+       String firstWindow = getDriver().getWindowHandle();
+
+
+
+   new HomePage(getDriver())
+                   .clickHome()
+                   .clickAbout()
+                   .clickContact()
+                   .clickLogin()
+                   .clickProfile()
+                   .clickLoLogout();
+
+       }
+   }
+*/
